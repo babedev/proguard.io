@@ -4,5 +4,6 @@
 !.idea/vcs.xml
 *.iml
 
+out
 .gradle
 build
